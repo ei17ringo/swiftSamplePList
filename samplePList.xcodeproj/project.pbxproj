@@ -14,6 +14,7 @@
 		1BE8C7561C6C52AA00D0B23B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BE8C7541C6C52AA00D0B23B /* LaunchScreen.storyboard */; };
 		1BE8C7611C6C52AA00D0B23B /* samplePListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BE8C7601C6C52AA00D0B23B /* samplePListTests.swift */; };
 		1BE8C76C1C6C52AA00D0B23B /* samplePListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BE8C76B1C6C52AA00D0B23B /* samplePListUITests.swift */; };
+		1BE8C77A1C6C52E500D0B23B /* friendsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1BE8C7791C6C52E500D0B23B /* friendsList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1BE8C7671C6C52AA00D0B23B /* samplePListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = samplePListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BE8C76B1C6C52AA00D0B23B /* samplePListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = samplePListUITests.swift; sourceTree = "<group>"; };
 		1BE8C76D1C6C52AA00D0B23B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BE8C7791C6C52E500D0B23B /* friendsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = friendsList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1BE8C7521C6C52AA00D0B23B /* Assets.xcassets */,
 				1BE8C7541C6C52AA00D0B23B /* LaunchScreen.storyboard */,
 				1BE8C7571C6C52AA00D0B23B /* Info.plist */,
+				1BE8C7791C6C52E500D0B23B /* friendsList.plist */,
 			);
 			path = samplePList;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			files = (
 				1BE8C7561C6C52AA00D0B23B /* LaunchScreen.storyboard in Resources */,
 				1BE8C7531C6C52AA00D0B23B /* Assets.xcassets in Resources */,
+				1BE8C77A1C6C52E500D0B23B /* friendsList.plist in Resources */,
 				1BE8C7511C6C52AA00D0B23B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
